@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PracticalTest01Var03</string>
+    <string name="navigate_to_secondary_activity">Navigate to secondary activity</string>
+    <string name="display">Display</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="title_activity_practical_test01_var03_sec">PracticalTest01Var03SecActivity
+    </string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+</resources>
